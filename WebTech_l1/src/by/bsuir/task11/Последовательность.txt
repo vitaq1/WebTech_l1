@@ -1,0 +1,3 @@
+cd /D D:\WebTech_l1\src\by\bsuir\task9
+javac -d out ./*
+jar -cmf manifest.mf task.jar -C out .
